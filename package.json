@@ -1,19 +1,19 @@
 {
-  "name": "antd-tools",
+  "name": "antd-tools-ideallife",
   "version": "6.5.0",
-  "description": "tools for ant design",
+  "description": "tools for ant design clone for ideallife",
   "keywords": [
     "react",
     "tools"
   ],
-  "homepage": "http://github.com/ant-design/antd-tools",
+  "homepage": "http://github.com/acpplife/ant-design/antd-tools",
   "author": "yiminghe@gmail.com",
   "repository": {
     "type": "git",
     "url": "git@github.com:ant-design/antd-tools.git"
   },
   "bugs": {
-    "url": "http://github.com/ant-design/antd-tools/issues"
+    "url": "http://github.com/acpplife/ant-design/antd-tools/issues"
   },
   "license": "MIT",
   "bin": {
